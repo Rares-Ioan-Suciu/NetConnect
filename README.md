@@ -1,22 +1,17 @@
-# NetConnect
+# 🌐 NetConnect  
 
-NetConnect is a social media platform designed for computer scientists, built with Java and JavaFX for the graphical user interface. It integrates Google's API to enable seamless user authentication via Google accounts.
+NetConnect is a **social media platform** for **computer scientists**, designed to connect users based on their interests and skills.  
 
-## Features
+## 🚀 Features  
+- Built with **Java** and **JavaFX** for GUI
+- **Google API integration** for easy sign-up and login  
+- Users can:  
+  - Create an account with their **interests** and **skills**  
+  - Specify what they are **looking for**  
+  - **Match** with other like-minded users  ans start a chatting in a chatroom, where you can even send **pictures**
+-Admins and SuperAdmins can:
+  - react to bug reports and profile reports
+  - ban and delete users
+  - create new admins or delete them
 
-### Authentication
-- **Sign-Up and Login System** through the app
-- **Google Authentication** for easy sign-up and login using Google API
 
-### User Experience
-- **Comprehensive User Features** for an interactive experience
-- **Matching System** to connect like-minded users
-- **Chat Room** supporting both text messages and image sharing
-
-### Administration
-- **Moderator & Simple Admin Roles** for content management
-- **Super Admins** with extended privileges
-
-### Technical Aspects
-- **Database Integration** for user data management
-- **Server Requirements** to ensure smooth operation
